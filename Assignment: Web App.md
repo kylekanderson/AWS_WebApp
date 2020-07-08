@@ -12,11 +12,11 @@ For this assignment, you have been asked by your boss to roll out a new web appl
 
 - HINT: The text that you will modify in the JS file is located on line 11 ('Hello World\n'), like in python the \n indicates to go to the next line.
 
-- [ ] Create a new Github repository and upload the two updated helloworld files.
+- [x] Create a new Github repository and upload the two updated helloworld files.
 
-- [ ] You will turn in the link to your Github repository.
+- [x] You will turn in the link to your Github repository.
 
-- [ ] [5 pts] Find the AMI instance type ID.
+- [x] [5 pts] Find the AMI instance type ID.
 
 - Requirements:
 
@@ -25,30 +25,30 @@ For this assignment, you have been asked by your boss to roll out a new web appl
   - Virtaulize Type HVM
   - Has GP2 support
 
-  - [ ] Save the instance type ID, you will turn this in.
+  - [x] Save the instance type ID, you will turn this in.
 
-- [ ] [5 pts] Find the ID of your Default VPC.
+- [x] [5 pts] Find the ID of your Default VPC.
 
-- [ ] You will submit the ID of your VPC as part of your homework assignment.
+- [x] You will submit the ID of your VPC as part of your homework assignment.
 
-- [ ] [10 pts] Create a Security Group for your EC2 instance and your VPC.
+- [x] [10 pts] Create a Security Group for your EC2 instance and your VPC.
 
-- [ ] I want you to name your Security Group "Week2HW" and give it a description of "Week 2 Homework"
+- [x] I want you to name your Security Group "Week2HW" and give it a description of "Week 2 Homework"
 
-- [ ] I want the following ports to be open in the new Security Group
+- [x] I want the following ports to be open in the new Security Group
 
 - Port 22 - SSH
 - Port 3333 - Web Application
 
-- [ ] [5 pts] Create an SSH Key Pair for your EC2 instance.
+- [x] [5 pts] Create an SSH Key Pair for your EC2 instance.
 
 - This SSH Key Pair will be submitted as part of the assignment.
 
-- [ ] [10 pts] Create the EC2 instance.
+- [x] [10 pts] Create the EC2 instance.
 
 - - You will submit the instance ID of your new EC2 instance.
 
-- [ ] [5 pts] Find the public DNS or IP address for your new EC2 instance.
+- [x] [5 pts] Find the public DNS or IP address for your new EC2 instance.
 
 - You will submit either one as part of the assignment.
   - [ ] Connect to your new EC2 instance and install all of the OS updates.
