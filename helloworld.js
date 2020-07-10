@@ -8,8 +8,8 @@ http.createServer(function(request, response) {
     response.writeHead(200, { 'Content-Type': 'text/plain' })
 
     // Send the response body as "Hello World"
-    response.end('Love For All, Hatred For None. – Khalifatul Masih III\n')
-}).listen(3000)
+    response.end('Love For All, Hatred For None. -Khalifatul Masih III\n')
+}).listen(3333)
 
 // Console will print the message
 console.log('Server running')
